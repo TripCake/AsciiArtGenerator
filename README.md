@@ -1,1 +1,3 @@
-Homebrew ASCII art Image to ASCII generator. Built in Python and compiled using PyInstaller. Simple download and run.
+ASCII art generator made with Python. 
+
+Requirements to run are PIL, cv2, re, tqdm, numpy.
